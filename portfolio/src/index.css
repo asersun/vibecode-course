@@ -1,16 +1,17 @@
 :root {
-  --bg: #0a0a0c;
-  --bg-card: #16161a;
-  --bg-card-hover: #1e1e24;
-  --accent-1: #bb86fc;
-  --accent-2: #03dac6;
-  --text-primary: #e1e1e6;
-  --text-secondary: #a1a1a6;
-  --border: rgba(255, 255, 255, 0.08);
+  --bg: #1a1b1e;
+  --bg-card: #25262b;
+  --bg-card-hover: #2c2e33;
+  --accent-1: #91a7ff;
+  --accent-2: #fab005;
+  --text-primary: #e9ecef;
+  --text-secondary: #909296;
+  --border: rgba(255, 255, 255, 0.05);
   --font-serif: "Playfair Display", serif;
   --font-sans: "Inter", system-ui, -apple-system, sans-serif;
-  --glass: rgba(255, 255, 255, 0.03);
-  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass: rgba(255, 255, 255, 0.02);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 * {
@@ -37,7 +38,7 @@ h1, h2, h3, h4 {
 a {
   color: inherit;
   text-decoration: none;
-  transition: all 0.2s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 button {
@@ -48,27 +49,28 @@ button {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 6rem 2rem;
 }
 
 @media (max-width: 768px) {
   .container {
-    padding: 2rem 1rem;
+    padding: 3rem 1.5rem;
   }
 }
 
-/* Scrollbar styling */
+/* Custom Scrollbar for a more pleasant look */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 10px;
 }
 ::-webkit-scrollbar-track {
   background: var(--bg);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--bg-card);
-  border-radius: 4px;
+  background: #373a40;
+  border-radius: 10px;
+  border: 2px solid var(--bg);
 }
 ::-webkit-scrollbar-thumb:hover {
   background: var(--accent-1);
