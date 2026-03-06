@@ -1,0 +1,193 @@
+Anastasia Sersun
+
+Senior Backend Engineer → Product-Oriented Engineer
+
+Chișinău, Moldova
+anastasya.sersun@gmail.com
+ | +373 798 82 436
+LinkedIn: md.linkedin.com/in/anastasia-sersun
+
+Professional Profile
+
+Backend engineer with 10+ years of experience building distributed systems across travel platforms, security systems, edtech, betting platforms, and retail software.
+
+Experienced in microservices architecture, event-driven systems (Kafka), and complex platform integrations, with increasing involvement in product-facing activities such as architecture decisions, feature planning, backlog preparation, and stakeholder collaboration.
+
+Also active in mentoring developers and supporting startup teams, bringing a perspective that connects engineering execution with product and business outcomes.
+
+Core Expertise
+
+Backend & Architecture
+
+Distributed backend systems
+
+Microservices and event-driven architectures
+
+API and integration platforms
+
+Data pipelines and backend services
+
+Product & Delivery
+
+Technical solution design for product features
+
+Cross-functional collaboration (engineering, product, QA)
+
+Backlog refinement and feature planning
+
+Stakeholder communication
+
+Leadership
+
+Developer mentoring
+
+Startup mentoring and tracking
+
+Technical guidance within teams
+
+Tech Stack
+
+Java • Scala • Spring Boot • Kafka
+GraphQL • RabbitMQ • MongoDB • MySQL • PostgreSQL
+Elasticsearch • HBase • Zookeeper
+
+JUnit • Mockito • Maven • Jenkins • SonarQube
+
+Professional Experience
+Pentalog — Tripadvisor Platform
+
+Senior Backend Engineer
+Apr 2024 – Present
+
+Develop backend services supporting the Tripadvisor mobile ecosystem.
+
+Key contributions
+
+Develop APIs providing both data and UI configuration for mobile clients using backend-driven UI architecture.
+
+Work closely with product and mobile teams to translate product requirements into backend capabilities.
+
+Optimize GraphQL queries and backend performance to improve mobile application responsiveness.
+
+Participate in feature discussions impacting the mobile user experience.
+
+Technologies: Java, GraphQL
+
+Pentalog — Security Platform
+
+Backend Engineer
+Jul 2022 – Apr 2024
+
+Worked on a platform integrating multiple external services for security and compliance workflows.
+
+Key contributions
+
+Integrated third-party platforms while preserving existing business workflows.
+
+Adapted backend services to support new market requirements and regulatory constraints.
+
+Collaborated with product stakeholders and engineering teams to implement platform changes.
+
+Investigated complex issues across distributed services and contributed to solution design.
+
+Technologies: Java, MongoDB, MySQL, Hibernate
+
+Pentalog — StraighterLine (EdTech Platform)
+
+Backend Engineer
+Feb 2021 – Jul 2022
+
+Worked on a multi-tenant online learning platform used by US universities.
+
+Key contributions
+
+Developed microservices responsible for course enrollment and progress tracking.
+
+Implemented event-driven communication between services using Kafka.
+
+Contributed to the development of features impacting the student learning workflow.
+
+Technologies: Java, Spring Boot, Kafka
+
+Code Factory Group
+
+Backend Engineer (Java / Scala)
+2013 – 2021
+
+Worked on multiple products including betting platforms, trade systems, retail software, and data-processing platforms.
+
+Representative contributions
+
+Developed backend services for multi-tenant betting platforms supporting multiple international clients.
+
+Implemented integrations with third-party data providers and external systems.
+
+Contributed to architectural decisions for microservices platforms using Scala and Akka.
+
+Designed architecture components for a data crawling system collecting data from heterogeneous enterprise sources.
+
+Led development of a dedicated module within the Exonar data platform.
+
+Facilitated stand-ups and supported product backlog preparation together with the product owner.
+
+Mentored junior developers and supported team onboarding.
+
+Technologies: Java, Scala, Spring, Akka Actors, RabbitMQ, Elasticsearch, HBase
+
+Product & Startup Ecosystem Involvement
+Startup Tracker — Cahul Digital Upgrade Program
+
+2022 – 2023
+
+Worked with small businesses participating in a digital transformation program.
+
+Responsibilities
+
+Facilitated sessions to identify business growth challenges.
+
+Helped teams define short-term goals and measurable milestones.
+
+Monitored progress and supported founders in refining their strategies.
+
+Startup Tracker — Technovator
+
+2022
+
+Supported startup teams through structured progress tracking and strategy discussions.
+
+Responsibilities
+
+Conducted regular sessions with founders.
+
+Helped teams define goals and measure progress.
+
+Mentorship
+
+Java Mentor — TechWomen Moldova
+2021 – 2024
+
+Mentored aspiring developers entering the software industry.
+
+Responsibilities
+
+Conducted weekly mentoring sessions on Java fundamentals and OOP.
+
+Supported mentees in defining technical learning paths and career plans.
+
+Education
+
+Master’s Degree — Information Systems
+State University of Moldova
+
+Bachelor’s Degree — Applied Informatics
+State University of Moldova
+
+Certifications
+
+Neural Networks and Deep Learning — Coursera
+
+Languages
+
+Romanian — Native
+Russian — Native
+English — Advanced
